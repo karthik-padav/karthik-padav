@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Karthik Padav!
 
-<!--
-**karthik-padav/karthik-padav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am a Software Developer with over 9 years of experience, Specialising in React.js. I enjoy creating user-friendly solutions and have a background in both Front-End and Back-End development. Whether it's building dynamic web applications or mobile solutions with React Native, I bring a passion for clean code and effective design to every project.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- 🧠 Frontend Development: React.js, Next.js, Tailwind CSS, TypeScript
+- 🛠️ Backend Development: Node.js, Express, MongoDB, postgres, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Notable Projects
+- [**Profile Picture Maker**](https://www.imageflexstudio.com/profile-picture-maker) – Remove Background, Edit, And Customize Your Profile Picture in Seconds! 
+- **Text Behind Image** – Create stunning text behind image designs in seconds—free, unlimited, and hassle-free!
+- **Compress Image** – Compress Image Files Effortlessly — Compress Image Online For Free Without Compromising Quality!
+- **Quick Logo** – Design Your Perfect Logo Instantly - No Design Skills Required!
+- **Many More Coming Soon!**
+
+## 📫 Let's Connect
+- 📧 Email: [karthikpadav@gmail.com](mailto:karthikpadav@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/karthik-padav/](https://linkedin.com/in/karthik-padav/)
+- 🌐 Portfolio: [Karthik Padav](https://karthikpadav.vercel.app)
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 😊
+
