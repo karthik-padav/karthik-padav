@@ -20,5 +20,5 @@ I'am a Software Developer with over 9 years of experience, Specialising in React
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 😊
+Thanks for visiting my profile!😊
 
