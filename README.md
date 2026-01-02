@@ -7,8 +7,8 @@ I'am a Software Developer with over 9 years of experience, Specialising in React
 - 🛠️ Backend Development: Node.js, Express, MongoDB, postgres, REST APIs
 
 ## 🧰 Notable Projects
+- [**Finance Log Book**](https://financelb.com/) – Track Expenses. Control Money. Build Better Financial Habits.
 - [**Profile Picture Maker**](https://www.imageflexstudio.com/profile-picture-maker) – Remove Background, Edit, And Customize Your Profile Picture in Seconds! 
-- [**Finance Log Book**](https://financelb.com/) – Track Expenses. Control Money. Build Better Financial Habits. 
 - [**Text Behind Image**](https://www.imageflexstudio.com/text-behind-image) – Create stunning text behind image designs in seconds—free, unlimited, and hassle-free!
 - [**Compress Image**](https://www.imageflexstudio.com/compress-image) – Compress Image Files Effortlessly — Compress Image Online For Free Without Compromising Quality!
 - [**Quick Logo**](https://www.quicklogo.imageflexstudio.com/) – Design Your Perfect Logo Instantly - No Design Skills Required!
