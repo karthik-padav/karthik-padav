@@ -22,4 +22,6 @@ I'am a Software Developer with over 9 years of experience, Specialising in React
 ---
 
 Thanks for visiting my profile!😊
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/builtx91)
+
 
