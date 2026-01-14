@@ -22,6 +22,14 @@ I'am a Software Developer with over 9 years of experience, Specialising in React
 ---
 
 Thanks for visiting my profile!😊
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/builtx91)
+<p>
+  <a href="https://www.buymeacoffee.com/builtx91">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy me a coffee"
+      width="180"
+    />
+  </a>
+</p>
 
 
